@@ -1,4 +1,10 @@
-# Fuel-economy-car-analysis
+# Date created
+February 4, 2020
+
+# Project Title
+The analysis in fuel-economy-car data
+
+# Description
 
 From previous days to these days, automobiles have been necessity for American dream.
 
@@ -13,6 +19,7 @@ Q: What are the characteristics of SmartWay vehicles?
 Q: For all of the models that were produced in 2008 that are still being produced now, how much has the mpg improved and which vehicle improved the most?
 
 Thank you so much for reading this.
+
 
 # Contents
 
