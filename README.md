@@ -1,9 +1,9 @@
 # The Fuel Economy Car Analysis
 
-# Date created
+### Date created
 February 4, 2020
 
-# Description
+### Description
 
 From previous days to these days, automobiles have been necessity for American dream.
 
@@ -20,7 +20,7 @@ Q: For all of the models that were produced in 2008 that are still being produce
 Thank you so much for reading this.
 
 
-# Contents
+### Contents
 
 cleansing_column_labels - Renamed the columns, dropped unncessary columns
 
