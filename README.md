@@ -1,8 +1,7 @@
+# The Fuel Economy Car Analysis
+
 # Date created
 February 4, 2020
-
-# Project Title
-The analysis in fuel-economy-car data
 
 # Description
 
